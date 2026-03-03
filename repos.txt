@@ -1,0 +1,15 @@
+# Liste des dépôts CESI (supports de cours) à cloner
+# Une URL par ligne (HTTPS ou SSH). Lignes vides et # ignorées.
+# Le nom du dossier = dernier segment de l'URL (ex: repo-name.git → repo-name)
+#
+# Exemples :
+# https://github.com/TON_USER/support-cours-1.git
+# git@github.com:TON_USER/support-cours-2.git
+#
+https://github.com/KANTANDEV/INFAL26_Introduction_aux_Api.git
+https://github.com/KANTANDEV/INFAL26_Exercice_TS.git
+https://github.com/KANTANDEV/INFAL26_Exercice_REACT.git
+https://github.com/KANTANDEV/INFRAL26_DBSqlite.git
+https://github.com/KANTANDEV/INFAL26_Exercice_JS.git
+https://github.com/KANTANDEV/Pong-EduGames.git
+https://github.com/KANTANDEV/pokenative.git
